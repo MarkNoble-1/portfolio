@@ -30,4 +30,5 @@ August 2020 – January 2022 | Lubbock, TX
   
 ## Projects
 
-
+Trade&Ahead_Unsupervised_Machine_Learning_Project.ipynb
+_config.yml
