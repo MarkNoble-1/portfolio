@@ -32,5 +32,4 @@ August 2020 – January 2022 | Lubbock, TX
 
 Trade&Ahead project
 
-Trade&Ahead_Unsupervised_Machine_Learning_Project.ipynb
-_config.yml
+[Trade&Ahead Unsupervised Machine Learning Project](https://github.com/MarkNoble-1/portfolio/blob/main/Trade%26Ahead_Unsupervised_Machine_Learning_Project.ipynb)
