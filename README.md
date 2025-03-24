@@ -106,7 +106,7 @@ In this project I analyzed data for certain stocks, using a clustering model to 
 - Hierarchical Clustring
 - Cluter Profiling
 
-**Unique Project Result:**
+**Project Result:**
 
 I created a clustering model splitting the stocks into 3 distinct groups, allowing users to select stocks from certain clusters based on their trading profile and risk tolerance.
 
