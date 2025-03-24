@@ -5,13 +5,10 @@
 ### The University of Texas at Austin
 #### McCombs School of Business - Post Graduate Certificate in Data Science & Business Analytics
 February 2025 | Remote | (GPA 4.33)
--	Relevant coursework: Python, SQL, Machine Learning, Data Visualization
 
 ### Texas Tech University
 #### Rawls College of Business - Bachelor of Business Administration in Supply Chain Logistics & Management	 
 May 2020 | Lubbock, TX | Magna Cum Laude (GPA 3.87)
--	Relevant coursework: Business Statistics, Logistics Forecasting, Business Management, Information Systems	
-
 
 ## Work Experience
 
