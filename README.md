@@ -39,7 +39,7 @@ These projects were completed during my Data Sciense & Business Analytics Post G
 - Communicating Data-Driven Business Insights
   
 
-### Business Statistics - E-News Express
+### Business Statistics
 
 **Summary:**
 
