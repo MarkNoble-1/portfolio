@@ -1,1 +1,21 @@
-<!-- Layout file -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
+<body>
+  <header>
+    <img src="{{ site.logo }}" alt="Logo" class="logo">
+    <div class="contact-info">
+      <p>Email: <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></p>
+      <p>Phone: {{ site.contact.phone }}</p>
+    </div>
+  </header>
+  <main>
+    {{ content }} <!-- This is where the page's content will go -->
+  </main>
+</body>
+</html>
