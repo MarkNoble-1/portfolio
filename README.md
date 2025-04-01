@@ -26,7 +26,8 @@ In this project I used statistical analysis, a/b testing, and data visualization
 
 Initial visual analysis shown below seemed to suggest that the new landing page is more effective at converting viewers to subscribers than the old landing page, but further statistical analysis was required to determine the statistical significance of the new page's performance.
 
-<img src="/assets/ENews_Express_Conversion_Rate.png" alt="E-News Express Conversion Rate">
+<img src="/portfolio/assets/ENews_Express_Conversion_Rate.png" alt="E-News Express Conversion Rate">
+
 
 ### **Project Result & Conclusion:**
 
