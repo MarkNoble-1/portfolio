@@ -17,9 +17,20 @@ These projects were completed during my Data Sciense & Business Analytics Post G
 
 **Summary:**
 
-In this project I used statistical analysis, a/b testing, and data visualization to determine whether the new landing page of an online news portal is more effective at converting viewers to subscribers than the current landing page.
+In this project I used statistical analysis, a/b testing, and data visualization to determine whether the new landing page of an online news portal is more effective at converting viewers to subscribers than the current landing page. I answered the following 4 questions regarding user data. 
+
+1. Do the users spend more time on the new landing page than the existing landing page?
+2. Is the conversion rate (the proportion of users who visit the landing page and get converted) for the new page greater than the conversion rate for the old page?
+3. Is the conversion and preferred language independent or related?
+4. Is the time spent on the new page the same for the different language users?
+
+Initial visual analysis shown below seemed to suggest that the new landing page is more effective at converting viewers to subscribers than the old landing page, but further statistical analysis was required to determine the statistical significance of the new page's performance.
 
 <img src="/assets/ENews_Express_Conversion_Rate.png" alt="E-News Express Conversion Rate">
+
+**Project Result & Conclusion:**
+
+I applied hypothesis testing to assess webpage performance, providing statistical evidence (p = 0.008) that the new design improved conversion rates with 95% confidence. I visually analyzed the data and tested four statistical hypothesis to provide strong insight into the data and answer important questions. 
 
 **Unique Skills & Tools Covered:**
 
@@ -27,10 +38,6 @@ In this project I used statistical analysis, a/b testing, and data visualization
 - A/B testing
 - Data Visualization
 - Statistical Inference
-
-**Project Result:**
-
-I applied hypothesis testing to assess webpage performance, providing statistical evidence (p = 0.008) that the new design improved conversion rates with 95% confidence.
 
 [Business Statistics Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/ENews_Business_Statistics_Project.ipynb)
 
