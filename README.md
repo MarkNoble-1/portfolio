@@ -19,7 +19,7 @@ These projects were completed during my Data Sciense & Business Analytics Post G
 
 In this project I used statistical analysis, a/b testing, and data visualization to determine whether the new landing page of an online news portal is more effective at converting viewers to subscribers than the current landing page.
 
-<img src="/assets/ENews_Express_Conversion_Rate.png" alt="E-News Express Conversion Rate"
+<img src="/assets/ENews_Express_Conversion_Rate.png" alt="E-News Express Conversion Rate">
 
 **Unique Skills & Tools Covered:**
 
