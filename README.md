@@ -1,6 +1,5 @@
-# Data Analyst
+# Data Science and Business Analytics Projects
   
-## Projects
 
 These projects were completed during my Data Sciense & Business Analytics Post Graduate Certificate at UT Austin. They showcase my ability and experience in solving a variety of data science tasks utilzing technical tools. 
 
@@ -14,7 +13,7 @@ These projects were completed during my Data Sciense & Business Analytics Post G
 - Communicating Data-Driven Business Insights
   
 
-### Business Statistics
+## Business Statistics
 
 **Summary:**
 
@@ -33,7 +32,7 @@ I applied hypothesis testing to assess webpage performance, providing statistica
 
 [Business Statistics Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/ENews_Business_Statistics_Project.ipynb)
 
-### Supervised Machine Learning - Regression
+## Supervised Machine Learning - Regression
 
 **Summary:**
 
@@ -50,7 +49,7 @@ I applied regression analysis to estimate used device prices, with the model pre
 
 [Supervised Machine Learning - Regression Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Recell_Supervised_Machine_Learning_Project.ipynb)
 
-### Supervised Machine Learning - Classification
+## Supervised Machine Learning - Classification
 
 **Summary:**
 
@@ -87,7 +86,7 @@ I created a clustering model splitting the stocks into 3 distinct groups, allowi
 
 [Unsupervised Machine Learning Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Trade%26Ahead_Unsupervised_Machine_Learning_Project.ipynb)
 
-### Model Tuning
+## Model Tuning
 
 **Summary:**
 
