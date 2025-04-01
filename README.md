@@ -17,7 +17,7 @@ These projects were completed during my Data Sciense & Business Analytics Post G
 
 ### **Summary:**
 
-In this project I used statistical analysis, a/b testing, and data visualization to determine whether the new landing page of an online news portal is more effective at converting viewers to subscribers than the current landing page. I answered the following 4 questions regarding user data. 
+In this project I used statistical analysis, a/b testing, and data visualization to determine whether the new landing page of an online news portal is more effective at converting viewers to subscribers than the current landing page. I answered the following questions regarding user data:
 
 1. Do the users spend more time on the new landing page than the existing landing page?
 2. Is the conversion rate (the proportion of users who visit the landing page and get converted) for the new page greater than the conversion rate for the old page?
@@ -41,6 +41,9 @@ I applied hypothesis testing to assess webpage performance, providing statistica
 
 [Business Statistics Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/ENews_Business_Statistics_Project.ipynb)
 
+
+
+
 ## Supervised Machine Learning - Regression
 
 **Summary:**
@@ -57,6 +60,9 @@ In this project I built a linear regression model to help develop a dynamic pric
 I applied regression analysis to estimate used device prices, with the model predicting within 4.5% of actual values and demonstrating strong training and testing performance.
 
 [Supervised Machine Learning - Regression Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Recell_Supervised_Machine_Learning_Project.ipynb)
+
+
+
 
 ## Supervised Machine Learning - Classification
 
@@ -77,11 +83,14 @@ I developed a decision tree model with a high F1 score of 0.81, allowing the hot
 
 [Supervised Machine Learning - Classification Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/INN_Hotels_Supervised_Machine_Learning_Project.ipynb)
 
-### Unsupervised Machine Learning
+
+
+
+## Unsupervised Machine Learning
 
 **Summary:**
 
-In this project I analyzed data for certain stocks, using a clustering model to group the stocks based on the attributes provided. I shared insights about the characteristics of each group, and made clear distinctions between each cluster.
+In this project I analyzed data for certain stocks, comparing a K-Means clustering model and a Heirarchical clustering model that identified groups of stocks based on the attributes provided. I compared both models and optimized their performance to select the model creating the most appropriately sized and distinct clusters. I shared insights about the characteristics of each group, and how the model can be used to drive decision making for investment on these stocks. 
 
 **Unique Skills & Tools Covered:**
 
@@ -94,6 +103,9 @@ In this project I analyzed data for certain stocks, using a clustering model to 
 I created a clustering model splitting the stocks into 3 distinct groups, allowing users to select stocks from certain clusters based on their trading profile and risk tolerance.
 
 [Unsupervised Machine Learning Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Trade%26Ahead_Unsupervised_Machine_Learning_Project.ipynb)
+
+
+
 
 ## Model Tuning
 
