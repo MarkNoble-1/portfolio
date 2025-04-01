@@ -15,7 +15,7 @@ These projects were completed during my Data Sciense & Business Analytics Post G
 
 ## Business Statistics
 
-**Summary:**
+### **Summary:**
 
 In this project I used statistical analysis, a/b testing, and data visualization to determine whether the new landing page of an online news portal is more effective at converting viewers to subscribers than the current landing page. I answered the following 4 questions regarding user data. 
 
@@ -28,11 +28,11 @@ Initial visual analysis shown below seemed to suggest that the new landing page 
 
 <img src="/assets/ENews_Express_Conversion_Rate.png" alt="E-News Express Conversion Rate">
 
-**Project Result & Conclusion:**
+### **Project Result & Conclusion:**
 
 I applied hypothesis testing to assess webpage performance, providing statistical evidence (p = 0.008) that the new design improved conversion rates with 95% confidence. I visually analyzed the data and tested four statistical hypothesis to provide strong insight into the data and answer important questions. 
 
-**Unique Skills & Tools Covered:**
+### **Unique Skills & Tools Covered:**
 
 - Hypothesis Testing
 - A/B testing
