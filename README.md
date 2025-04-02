@@ -56,7 +56,8 @@ I applied hypothesis testing to assess webpage performance, providing statistica
 
 
 
-## Supervised Machine Learning: Regression Project | [Full Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Recell_Supervised_Machine_Learning_Project.ipynb)
+## Supervised Machine Learning: Regression Project
+[Full Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Recell_Supervised_Machine_Learning_Project.ipynb)
 
 **Summary:**
 
