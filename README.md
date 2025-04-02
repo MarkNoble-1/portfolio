@@ -83,8 +83,8 @@ I applied regression model to estimate used device prices, predicting within 4.5
 ____________________________________________________________________________________________________________________________
 
 ## Supervised Machine Learning: Classification Project
-**[Full Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/INN_Hotels_Supervised_Machine_Learning_Project.ipynb)
-**
+**[Full Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/INN_Hotels_Supervised_Machine_Learning_Project.ipynb)**
+
 **Summary:**
 
 In this project I analyzed customer data for a hotel to find which factors have a high influence on booking cancellations, and built a decision tree model to predict bookings which are likely canceled in advance resulting in revenue loss. I used this data to help formulate profitable policies for cancellations and refunds for the hotel. Additionally, I investigated a variable in the dataset that presented logical inconsistencies, and I presented possible explanations for the data shown by that variable to highlight the importance of clean data. 
