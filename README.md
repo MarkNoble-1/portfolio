@@ -4,7 +4,7 @@
 These projects were completed during my Data Sciense & Business Analytics Post Graduate Certificate at UT Austin. They showcase my ability and experience in solving a variety of data science tasks utilzing technical tools. 
 
 **Project List**
- - [Jump to Business Statistics Project](#business-statistics)
+ - [Jump to Business Statistics Project](#business-statistics-project)
  - [Jump to Supervised Machine Learning: Regression Project](#supervised-machine-learning-regression-project)
  - [Jump to Supervised Machine Learning: Classification Project](#supervised-machine-learning-classification-project)
  - [Jump to Unsupervised Machine Learning Project](#unsupervised-machine-learning-project)
@@ -21,7 +21,8 @@ These projects were completed during my Data Sciense & Business Analytics Post G
 - Communicating Data-Driven Business Insights
 
   
-  
+  ____________________________________________________________________________________________________________________________
+
 
 ## Business Statistics Project
 
@@ -54,6 +55,7 @@ I applied hypothesis testing to assess webpage performance, providing statistica
 
 
 
+____________________________________________________________________________________________________________________________
 
 
 ## Supervised Machine Learning: Regression Project
@@ -78,8 +80,10 @@ I applied regression model to estimate used device prices, predicting within 4.5
 
 
 
+____________________________________________________________________________________________________________________________
 
 ## Supervised Machine Learning: Classification Project
+[Full Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/INN_Hotels_Supervised_Machine_Learning_Project.ipynb)
 
 **Summary:**
 
@@ -87,13 +91,17 @@ In this project I analyzed customer data for a hotel to find which factors have 
 
 I used pruning techniques to refine the decision tree, allowing for a more rubust model.
 
-The below decision tree was highly complex and performed with 99% accuracy and a 99% F1 score on the training data, but poorly performed on the testing data set as it was overfitting:
+The first decision tree was highly complex and performed with 99% accuracy and a 99% F1 score on the training data, but poorly performed on the testing data set as it was overfitting:
 
 <img src="assets/INN_prepruned_tree.png" alt="Prepruned Decision Tree">
 
-The below decision tree was pruned and had approximately equal performance on training and testing data:
+The pruned tree was more computationally effecient and had approximately equal performance on training and testing data:
 
 <img src="assets/INN_Decision_Tree.png" alt="Pruned Decision Tree">
+
+**Project Result:**
+
+I developed a decision tree model with a high F1 score of 0.81, allowing the hotel to take action on 78% of at-risk cancellations (recall) while ensuring 84% of flagged cancellations were truly at risk (precision)
 
 **Unique Skills & Tools Covered:**
 
@@ -101,21 +109,28 @@ The below decision tree was pruned and had approximately equal performance on tr
 - Handling Multicollinearity
 - Utilizing and Analyzing an AUC-ROC Curve
 - Decision Tree Building and Pruning
-
-**Project Result:**
-
-I developed a decision tree model with a high F1 score of 0.81, allowing the hotel to take action on 78% of at-risk cancellations (recall) while ensuring 84% of flagged cancellations were truly at risk (precision).
-
-[Supervised Machine Learning - Classification Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/INN_Hotels_Supervised_Machine_Learning_Project.ipynb)
-
-
+____________________________________________________________________________________________________________________________
 
 
 ## Unsupervised Machine Learning Project
+[Full Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Trade%26Ahead_Unsupervised_Machine_Learning_Project.ipynb)
 
 **Summary:**
 
 In this project I analyzed data for certain stocks, comparing a K-Means clustering model and a Heirarchical clustering model that identified groups of stocks based on the attributes provided. I compared both models and optimized their performance to select the model creating the most appropriately sized and distinct clusters. I shared insights about the characteristics of each group, and how the model can be used to drive decision making for investment on these stocks. 
+
+I created the below dendogram to vizualize the clusters of the hierarchicchal clustering model, and the quanitites in each:
+
+<img src="assets/TradeAhead_Cluster_Dendogram.png" alt="Cluster Dendogram">
+
+In order to compare variables, I created the below plot to show the differences in how variables from each cluster vary from the dataset mean:
+
+<img src="assets/TradeAhead_cluster_characteristics.png" alt="Cluster Characteristics">
+
+
+**Project Result:**
+
+I created a clustering model splitting the stocks into 3 distinct groups, allowing users to select stocks from certain clusters based on their trading profile and risk tolerance.
 
 **Unique Skills & Tools Covered:**
 
@@ -123,20 +138,21 @@ In this project I analyzed data for certain stocks, comparing a K-Means clusteri
 - Hierarchical Clustring
 - Cluter Profiling
 
-**Project Result:**
 
-I created a clustering model splitting the stocks into 3 distinct groups, allowing users to select stocks from certain clusters based on their trading profile and risk tolerance.
-
-[Unsupervised Machine Learning Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Trade%26Ahead_Unsupervised_Machine_Learning_Project.ipynb)
-
-
+____________________________________________________________________________________________________________________________
 
 
 ## Model Tuning Project
 
 **Summary:**
 
-In this project I assisted a company working on improving the machinery and processes involved in the production of wind energy. I built several classification models utilizing encoded data gathered from windmill sensors. I then tuned these models to find the most effective model at predicting failures, allowing the company to avoid steep repair costs and downtime.
+In this project I analyzed encoded sensor data to help improve the cost and efficiency of wind energy production by building a model to predict windmill failures. I built and tuned several classification models to find the most effective model at predicting failures, which would allow the company to avoid steep repair costs and downtime.
+
+I optmized the accuracy and recall score on the models created because False Negatives (real failures where there is no detection by the model) cost significantly more than False Positives (failture predicted when there is no failure), and actual failures predicted by the model still result in hefty repair costs.
+
+I discovered and vizualized the most important features in the dataset according to my final model, providing powerful insights that could be used to reduce windmill failure. 
+
+<img src="assets/Renewind_Feature_Importances.png" alt="Feature Importances">
 
 **Unique Skills & Tools Covered:**
 
@@ -146,7 +162,7 @@ In this project I assisted a company working on improving the machinery and proc
 
 **Project Result:**
 
-I developed and tested several models, selecting a model that performed well with an 85% identification rate of actual failures, allowing for reduced costs on expensive unexpected repairs.
+I developed and tested several models, selecting a under-sampled random forest model that performed well with 95% accuracy and an a recall score of 85%. Using this model would allow for reduced costs on expensive unexpected repairs.
 
 [Model Tuning Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Renewind_Model_Tuning_Project.ipynb)
 
