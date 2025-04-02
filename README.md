@@ -83,7 +83,17 @@ I applied regression model to estimate used device prices, predicting within 4.5
 
 **Summary:**
 
-In this project I analyzed customer data for a hotel to find which factors have a high influence on booking cancellations, and built a decision tree model to predict bookings which are likely canceled in advance resulting in revenue loss. I used this data to help formulate profitable policies for cancellations and refunds for the hotel.
+In this project I analyzed customer data for a hotel to find which factors have a high influence on booking cancellations, and built a decision tree model to predict bookings which are likely canceled in advance resulting in revenue loss. I used this data to help formulate profitable policies for cancellations and refunds for the hotel. Additionally, I investigated a variable in the dataset that presented logical inconsistencies, and I presented possible explanations for the data shown by that variable to highlight the importance of clean data. 
+
+I used pruning techniques to refine the decision tree, allowing for a more rubust model.
+
+The below decision tree was highly complex and performed with 99% accuracy and a 99% F1 score on the training data, but poorly performed on the testing data set as it was overfitting:
+
+<img src="assets/INN_prepruned_tree.png" alt="Prepruned Decision Tree">
+
+The below decision tree was pruned and had approximately equal performance on training and testing data:
+
+<img src="assets/INN_Decision_Tree.png" alt="Pruned Decision Tree">
 
 **Unique Skills & Tools Covered:**
 
