@@ -28,7 +28,6 @@ Initial visual analysis shown below seemed to suggest that the new landing page 
 
 <img src="assets/ENews_Express_Conversion_Rate.png" alt="E-News Express Conversion Rate">
 
-
 ### **Project Result & Conclusion:**
 
 I applied hypothesis testing to assess webpage performance, providing statistical evidence (p = 0.008) that the new design improved conversion rates with 95% confidence. I visually analyzed the data and tested four statistical hypothesis to provide strong insight into the data and answer important questions. 
@@ -50,6 +49,12 @@ I applied hypothesis testing to assess webpage performance, providing statistica
 **Summary:**
 
 In this project I built a linear regression model to help develop a dynamic pricing strategy for used electronic devices for a reseller. I used this model and visual analysis to identify factors that significantly influence the price of used electronic devices.
+
+I used the below heatmap to help determine relationships within the data, which helped in building the linear regression model. 
+
+<img src="assets/Recell_Heatmap.png" alt="Recell Heatmap">
+
+After handling multicollinearity in the data, I discovered the most important variables for the final model. 
 
 **Unique Skills & Tools Covered:**
 
