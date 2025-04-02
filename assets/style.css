@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+}
+
+.sidebar {
+  width: 250px;
+  padding: 20px;
+  background: #f0f0f0;
+  position: fixed;
+  height: 100%;
+  left: 0;
+  top: 0;
+  overflow-y: auto;
+}
+
+.sidebar nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar nav ul li {
+  margin-bottom: 10px;
+}
+
+.sidebar nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.page-content {
+  margin-left: 270px; /* Space for sidebar */
+  padding: 20px;
+  width: calc(100% - 270px);
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
