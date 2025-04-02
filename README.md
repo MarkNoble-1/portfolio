@@ -3,6 +3,13 @@
 
 These projects were completed during my Data Sciense & Business Analytics Post Graduate Certificate at UT Austin. They showcase my ability and experience in solving a variety of data science tasks utilzing technical tools. 
 
+**Project List**
+  [Jump to Business Statistics Project](#business-statistics)
+  [Jump to Supervised Machine Learning: Regression Project](#supervised-machine-learning:-regression-project)
+  [Jump to Supervised Machine Learning: classification Project](#supervised-machine-learning:-classification-project)
+  [Jump to Unsupervised Machine Learning: Project](#unsupervised-machine-learning:-project)
+  [Jump to Model Tuning Project](#model-tuning)
+
 **Skills & Tools Covered Across All Projects**
 
 - Python (NumPy, Pandas, Seaborn)
@@ -12,10 +19,10 @@ These projects were completed during my Data Sciense & Business Analytics Post G
 - Data Engineering (Creating new columns, One Hot Encoding, Test Train Split)
 - Communicating Data-Driven Business Insights
 
-  [Jump to My Section](#model-tuning)
+  
   
 
-## Business Statistics
+## Business Statistics Project
 
 ### **Summary:**
 
@@ -46,7 +53,7 @@ I applied hypothesis testing to assess webpage performance, providing statistica
 
 
 
-## Supervised Machine Learning - Regression
+## Supervised Machine Learning - Regression Project
 
 **Summary:**
 
@@ -70,7 +77,7 @@ I applied regression analysis to estimate used device prices, with the model pre
 
 
 
-## Supervised Machine Learning - Classification
+## Supervised Machine Learning - Classification Project
 
 **Summary:**
 
@@ -92,7 +99,7 @@ I developed a decision tree model with a high F1 score of 0.81, allowing the hot
 
 
 
-## Unsupervised Machine Learning
+## Unsupervised Machine Learning Project
 
 **Summary:**
 
@@ -113,7 +120,7 @@ I created a clustering model splitting the stocks into 3 distinct groups, allowi
 
 
 
-## Model Tuning
+## Model Tuning Project
 
 **Summary:**
 
