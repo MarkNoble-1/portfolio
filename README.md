@@ -11,6 +11,8 @@ These projects were completed during my Data Sciense & Business Analytics Post G
 - Data Preprocessing (Handling outliers, missing values, duplicates, etc)
 - Data Engineering (Creating new columns, One Hot Encoding, Test Train Split)
 - Communicating Data-Driven Business Insights
+
+  [Jump to My Section](#model-tuning)
   
 
 ## Business Statistics
@@ -48,11 +50,9 @@ I applied hypothesis testing to assess webpage performance, providing statistica
 
 **Summary:**
 
-In this project I built a linear regression model to help develop a dynamic pricing strategy for used electronic devices for a reseller. I used this model and visual analysis to identify factors that significantly influence the price of used electronic devices.
+In this project I built a linear regression model to help develop a dynamic pricing strategy for used electronic devices for a reseller. I analyzed the variables and handled multicollinearity in the data to improve the model and identify the most important factors that significantly influence the price of used electronic devices.
 
-I used the below heatmap to help determine relationships within the data, which helped in building the linear regression model. 
-
-<img src="assets/Recell_Heatmap.png" alt="Recell Heatmap">
+I used the 
 
 After handling multicollinearity in the data, I discovered the most important variables for the final model. 
 
