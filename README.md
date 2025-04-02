@@ -61,7 +61,7 @@ In this project I built a linear regression model to help develop a dynamic pric
 
 This heatmap below showing the correlation between variables helped visualize multicollinearity in the original model, which resulted in non-optimal performance. Handling multicollinearity allowed me to further refine the model until I had only significant and independent variables left in the final model. 
 
-<img src="assets/Recell_Heatmap_Screenshot.png" alt="Recell Heatmap Screenshot.png">
+<img src="assets/Recell_Heatmap_Screenshot.png" alt="Recell Heatmap Screenshot">
 
 **Unique Skills & Tools Covered:**
 
