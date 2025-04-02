@@ -15,7 +15,8 @@ These projects were completed during my Data Sciense & Business Analytics Post G
 - Python (NumPy, Pandas, Seaborn)
 - Multivariate and Bivariate Data Analysis
 - Data Vizualization
-- Data Preprocessing (Handling outliers, missing values, duplicates, etc)
+- Data Investigation and Preprocessing (handling outliers, missing values, duplicates, etc)
+- Data Manipulation (creating new variables, normalizing values)
 - Data Engineering (Creating new columns, One Hot Encoding, Test Train Split)
 - Communicating Data-Driven Business Insights
 
@@ -45,7 +46,6 @@ I applied hypothesis testing to assess webpage performance, providing statistica
 
 - Hypothesis Testing
 - A/B testing
-- Data Visualization
 - Statistical Inference
 
 [Business Statistics Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/ENews_Business_Statistics_Project.ipynb)
@@ -59,9 +59,9 @@ I applied hypothesis testing to assess webpage performance, providing statistica
 
 In this project I built a linear regression model to help develop a dynamic pricing strategy for used electronic devices for a reseller. I analyzed the variables and handled multicollinearity in the data to improve the model and identify the most important factors that significantly influence the price of used electronic devices.
 
-I used the 
+This heatmap below showing the correlation between variables helped visualize multicollinearity in the original model, which resulted in non-optimal performance. Handling multicollinearity allowed me to further refine the model until I had only significant and independent variables left in the final model. 
 
-After handling multicollinearity in the data, I discovered the most important variables for the final model. 
+<img src="assets/Recell_Heatmap_Screenshot.png" alt="Recell Heatmap Screenshot.png">
 
 **Unique Skills & Tools Covered:**
 
@@ -70,7 +70,7 @@ After handling multicollinearity in the data, I discovered the most important va
 
 **Project Result:**
 
-I applied regression analysis to estimate used device prices, with the model predicting within 4.5% of actual values and demonstrating strong training and testing performance.
+I applied regression model to estimate used device prices, predicting within 4.5% of actual values and demonstrating strong training and testing performance.
 
 [Supervised Machine Learning - Regression Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Recell_Supervised_Machine_Learning_Project.ipynb)
 
