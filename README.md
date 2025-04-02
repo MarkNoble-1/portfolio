@@ -137,3 +137,12 @@ In this project I assisted a company working on improving the machinery and proc
 I developed and tested several models, selecting a model that performed well with an 85% identification rate of actual failures, allowing for reduced costs on expensive unexpected repairs.
 
 [Model Tuning Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Renewind_Model_Tuning_Project.ipynb)
+
+
+
+
+
+
+
+
+       
