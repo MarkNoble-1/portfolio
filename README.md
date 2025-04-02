@@ -25,6 +25,7 @@ These projects were completed during my Data Sciense & Business Analytics Post G
 
 
 ## Business Statistics Project
+**[Full Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/ENews_Business_Statistics_Project.ipynb)**
 
 ### **Summary:**
 
@@ -49,7 +50,6 @@ I applied hypothesis testing to assess webpage performance, providing statistica
 - A/B testing
 - Statistical Inference
 
-[Business Statistics Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/ENews_Business_Statistics_Project.ipynb)
 
 
 
@@ -59,7 +59,7 @@ ________________________________________________________________________________
 
 
 ## Supervised Machine Learning: Regression Project
-[Full Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Recell_Supervised_Machine_Learning_Project.ipynb)
+**[Full Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Recell_Supervised_Machine_Learning_Project.ipynb)**
 
 **Summary:**
 
@@ -83,8 +83,8 @@ I applied regression model to estimate used device prices, predicting within 4.5
 ____________________________________________________________________________________________________________________________
 
 ## Supervised Machine Learning: Classification Project
-[Full Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/INN_Hotels_Supervised_Machine_Learning_Project.ipynb)
-
+**[Full Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/INN_Hotels_Supervised_Machine_Learning_Project.ipynb)
+**
 **Summary:**
 
 In this project I analyzed customer data for a hotel to find which factors have a high influence on booking cancellations, and built a decision tree model to predict bookings which are likely canceled in advance resulting in revenue loss. I used this data to help formulate profitable policies for cancellations and refunds for the hotel. Additionally, I investigated a variable in the dataset that presented logical inconsistencies, and I presented possible explanations for the data shown by that variable to highlight the importance of clean data. 
@@ -109,11 +109,12 @@ I developed a decision tree model with a high F1 score of 0.81, allowing the hot
 - Handling Multicollinearity
 - Utilizing and Analyzing an AUC-ROC Curve
 - Decision Tree Building and Pruning
+  
 ____________________________________________________________________________________________________________________________
 
 
 ## Unsupervised Machine Learning Project
-[Full Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Trade%26Ahead_Unsupervised_Machine_Learning_Project.ipynb)
+**[Full Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Trade%26Ahead_Unsupervised_Machine_Learning_Project.ipynb)**
 
 **Summary:**
 
@@ -143,6 +144,7 @@ ________________________________________________________________________________
 
 
 ## Model Tuning Project
+**[Model Tuning Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Renewind_Model_Tuning_Project.ipynb)**
 
 **Summary:**
 
@@ -154,17 +156,16 @@ I discovered and vizualized the most important features in the dataset according
 
 <img src="assets/Renewind_Feature_Importances.png" alt="Feature Importances">
 
+**Project Result:**
+
+I developed and tested several models, selecting a under-sampled random forest model that performed well with 95% accuracy and an a recall score of 85%. Using this model would allow for reduced costs on expensive unexpected repairs.
+
 **Unique Skills & Tools Covered:**
 
 - Upsampling and Downsampling
 - Data Regularization
 - Hyperparameter Tuning
 
-**Project Result:**
-
-I developed and tested several models, selecting a under-sampled random forest model that performed well with 95% accuracy and an a recall score of 85%. Using this model would allow for reduced costs on expensive unexpected repairs.
-
-[Model Tuning Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Renewind_Model_Tuning_Project.ipynb)
 
 
 
