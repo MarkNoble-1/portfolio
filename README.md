@@ -53,7 +53,10 @@ I applied hypothesis testing to assess webpage performance, providing statistica
 
 
 
-## Supervised Machine Learning: Regression Project
+
+
+
+## Supervised Machine Learning: Regression Project | [Full Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Recell_Supervised_Machine_Learning_Project.ipynb)
 
 **Summary:**
 
@@ -63,16 +66,14 @@ This heatmap below showing the correlation between variables helped visualize mu
 
 <img src="assets/Recell_Heatmap_Screenshot.png" alt="Recell Heatmap Screenshot">
 
-**Unique Skills & Tools Covered:**
-
-- Linear Regression Model Building
-- Linear Regression Analysis
-
 **Project Result:**
 
 I applied regression model to estimate used device prices, predicting within 4.5% of actual values and demonstrating strong training and testing performance.
 
-[Supervised Machine Learning - Regression Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Recell_Supervised_Machine_Learning_Project.ipynb)
+**Unique Skills & Tools Covered:**
+
+- Linear Regression Model Building
+- Linear Regression Analysis
 
 
 
