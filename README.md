@@ -6,8 +6,8 @@ These projects were completed during my Data Sciense & Business Analytics Post G
 **Project List**
  - [Jump to Business Statistics Project](#business-statistics)
  - [Jump to Supervised Machine Learning: Regression Project](#supervised-machine-learning:-regression-project)
- - [Jump to Supervised Machine Learning: classification Project](#supervised-machine-learning:-classification-project)
- - [Jump to Unsupervised Machine Learning Project](#unsupervised-machine-learning:-project)
+ - [Jump to Supervised Machine Learning: Classification Project](#supervised-machine-learning:-classification-project)
+ - [Jump to Unsupervised Machine Learning Project](#unsupervised-machine-learning-project)
  - [Jump to Model Tuning Project](#model-tuning)
 
 **Skills & Tools Covered Across All Projects**
@@ -53,7 +53,7 @@ I applied hypothesis testing to assess webpage performance, providing statistica
 
 
 
-## Supervised Machine Learning - Regression Project
+## Supervised Machine Learning: Regression Project
 
 **Summary:**
 
@@ -77,7 +77,7 @@ I applied regression analysis to estimate used device prices, with the model pre
 
 
 
-## Supervised Machine Learning - Classification Project
+## Supervised Machine Learning: Classification Project
 
 **Summary:**
 
