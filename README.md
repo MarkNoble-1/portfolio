@@ -4,11 +4,11 @@
 These projects were completed during my Data Sciense & Business Analytics Post Graduate Certificate at UT Austin. They showcase my ability and experience in solving a variety of data science tasks utilzing technical tools. 
 
 **Project List**
-  [Jump to Business Statistics Project](#business-statistics)
-  [Jump to Supervised Machine Learning: Regression Project](#supervised-machine-learning:-regression-project)
-  [Jump to Supervised Machine Learning: classification Project](#supervised-machine-learning:-classification-project)
-  [Jump to Unsupervised Machine Learning: Project](#unsupervised-machine-learning:-project)
-  [Jump to Model Tuning Project](#model-tuning)
+ - [Jump to Business Statistics Project](#business-statistics)
+ - [Jump to Supervised Machine Learning: Regression Project](#supervised-machine-learning:-regression-project)
+ - [Jump to Supervised Machine Learning: classification Project](#supervised-machine-learning:-classification-project)
+ - [Jump to Unsupervised Machine Learning: Project](#unsupervised-machine-learning:-project)
+ - [Jump to Model Tuning Project](#model-tuning)
 
 **Skills & Tools Covered Across All Projects**
 
