@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -39,11 +39,23 @@
         </ul>
         {% endif %}
       </header>
-      <section>
 
-      {{ content }}
+      <!-- Sidebar Section -->
+      <div id="layout">
+        <aside id="sidebar">
+          <ul>
+            <li><a href="/index.html">Home</a></li>
+            <li><a href="/teaching/">Teaching</a></li>
+            <li><a href="/downloads/">Downloads</a></li>
+          </ul>
+        </aside>
 
-      </section>
+        <!-- Main Content Section -->
+        <section id="content">
+          {{ content }}
+        </section>
+      </div>
+
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
@@ -51,6 +63,7 @@
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
+
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
