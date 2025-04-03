@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: My Portfolio
 ---
 
 {% include_relative README.md %}
