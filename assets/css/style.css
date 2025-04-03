@@ -1,21 +1,23 @@
+/* Sidebar Styles */
 .container {
     display: flex;
 }
 
 .sidebar {
-    width: 500px;  /* Adjust width as needed */
-    height: 100vh; /* Full height */
+    width: 250px;
+    height: 100vh;
     position: fixed;
     left: 0;
     top: 0;
-    background-color: #f4f4f4;
+    background-color: #f8f9fa;
     padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
     overflow-y: auto;
 }
 
 .sidebar-photo {
     width: 100%;
-    border-radius: 50%; /* Circular photo */
+    border-radius: 50%;
     margin-bottom: 15px;
 }
 
@@ -32,10 +34,18 @@
     text-decoration: none;
     color: #333;
     font-weight: bold;
+    display: block;
+    padding: 5px;
+    transition: 0.3s;
+}
+
+.sidebar nav ul li a:hover {
+    background-color: #e9ecef;
+    border-radius: 5px;
 }
 
 .content {
-    margin-left: 270px; /* Adjust based on sidebar width */
+    margin-left: 270px; /* Adjust this based on sidebar width */
     padding: 20px;
     max-width: 800px;
 }
