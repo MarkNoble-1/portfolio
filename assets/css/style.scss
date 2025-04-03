@@ -1,3 +1,6 @@
+---
+---
+
 @import "jekyll-theme-minimal"; /* Import the default Jekyll Minimal theme */
 
 /* Custom Sidebar Styles */
@@ -11,7 +14,7 @@
     height: 100vh;
     position: fixed;
     left: 0;
-    top: 0;
+    top: 65px; /* Adjust based on header height */
     background-color: #f8f9fa;
     padding: 20px;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
