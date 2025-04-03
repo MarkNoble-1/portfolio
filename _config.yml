@@ -1,13 +1,23 @@
-theme: jekyll-theme-minimal
-#remote_theme: pages-themes/minimal@v0.2.0
-#plugins:
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
   - jekyll-remote-theme
-#/assets/Circle_Headshot.png
 
-title:   Mark Noble
-description: "A brief description of your site"
-profile_picture: "/assets/images/profile.jpg"  # Ensure your profile image is in the right directory
-#logo: /assets/Circle_Headshot.png
-#description: mark.d.noble505@gmail.com  www.linkedin.com/in/marknoble01/
-url: "https://MarkNoble-1.github.io"
-baseurl: "/portfolio" # Only if hosted on GitHub Pages under a project repo
+title: "My Portfolio"
+description: "A showcase of my projects and skills"
+profile_picture: "/assets/images/profile.jpg"
+baseurl: "/my-portfolio-site" # Replace with your repo name if hosted on GitHub Pages; otherwise, use ""
+url: "https://your-username.github.io" # Replace with your GitHub Pages URL or custom domain
+
+author:
+  name: "Your Name"
+  email: "your-email@example.com"
+
+social_links:
+  - name: GitHub
+    url: "https://github.com/your-username"
+  - name: LinkedIn
+    url: "https://linkedin.com/in/your-username"
+
+markdown: kramdown
+kramdown:
+  input: GFM
