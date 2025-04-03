@@ -1,9 +1,8 @@
 ---
 ---
+@import "jekyll-theme-minimal"; /* Import the default Jekyll Minimal theme */
 
-@import "jekyll-theme-minimal";
-
-/* Layout */
+/* Custom Sidebar Styles */
 .container {
     display: flex;
 }
