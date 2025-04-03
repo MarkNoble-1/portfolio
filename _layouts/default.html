@@ -1,37 +1,33 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-
-  </head>
-  <body>
+</head>
+<body>
     <div class="container">
-      
-      <!-- Sidebar -->
-      <aside class="sidebar">
-        <img src="{{ site.baseurl }}/assets/profile.jpg" alt="Profile Photo" class="sidebar-photo">
-        <nav>
-          <ul>
-            <li><a href="#business-statistics">Business Statistics Project</a></li>
-            <li><a href="#regression-project">Supervised ML: Regression</a></li>
-            <li><a href="#classification-project">Supervised ML: Classification</a></li>
-            <li><a href="#unsupervised-ml">Unsupervised ML Project</a></li>
-            <li><a href="#model-tuning">Model Tuning Project</a></li>
-          </ul>
-        </nav>
-      </aside>
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <img src="{{ site.profile_picture | relative_url }}" alt="Profile Photo" class="sidebar-photo">
+            <nav>
+                <ul>
+                    <li><a href="#business-stats">Business Statistics Project</a></li>
+                    <li><a href="#regression">Supervised ML: Regression</a></li>
+                    <li><a href="#classification">Supervised ML: Classification</a></li>
+                    <li><a href="#unsupervised">Unsupervised ML Project</a></li>
+                    <li><a href="#model-tuning">Model Tuning Project</a></li>
+                </ul>
+            </nav>
+        </aside>
 
-      <!-- Main Content -->
-      <main class="content">
-        {{ content }}
-      </main>
-      
+        <!-- Main Content -->
+        <main class="content">
+            {{ content }}
+        </main>
     </div>
-
-  </body>
+</body>
 </html>
