@@ -11,3 +11,5 @@ plugins:
 title: "Your Site Title"
 description: "A brief description of your site"
 profile_picture: "/assets/images/profile.jpg"  # Ensure your profile image is in the right directory
+baseurl: "/your-repo-name" # Only if hosted on GitHub Pages under a project repo
+
