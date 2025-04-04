@@ -38,7 +38,7 @@ In this project I used statistical analysis, a/b testing, and data visualization
 
 Initial visual analysis shown below seemed to suggest that the new landing page is more effective at converting viewers to subscribers than the old landing page, but further statistical analysis was required to determine the statistical significance of the new page's performance.
 
-<img src="assets/ENews_Express_Conversion_Rate.png" alt="E-News Express Conversion Rate">
+<img src="assets/img/ENews_Express_Conversion_Rate.png" alt="E-News Express Conversion Rate">
 
 ### **Project Result & Conclusion:**
 
@@ -67,7 +67,7 @@ In this project I built a linear regression model to help develop a dynamic pric
 
 This heatmap below showing the correlation between variables helped visualize multicollinearity in the original model, which resulted in non-optimal performance. Handling multicollinearity allowed me to further refine the model until I had only significant and independent variables left in the final model. 
 
-<img src="assets/Recell_Heatmap_Screenshot.png" alt="Recell Heatmap Screenshot">
+<img src="assets/img/Recell_Heatmap_Screenshot.png" alt="Recell Heatmap Screenshot">
 
 **Project Result:**
 
@@ -93,11 +93,11 @@ I used pruning techniques to refine the decision tree, allowing for a more rubus
 
 The first decision tree was highly complex and performed with 99% accuracy and a 99% F1 score on the training data, but poorly performed on the testing data set as it was overfitting:
 
-<img src="assets/INN_prepruned_tree.png" alt="Prepruned Decision Tree">
+<img src="assets/img/INN_prepruned_tree.png" alt="Prepruned Decision Tree">
 
 The pruned tree was more computationally effecient and had approximately equal performance on training and testing data:
 
-<img src="assets/INN_Decision_Tree.png" alt="Pruned Decision Tree">
+<img src="assets/img/INN_Decision_Tree.png" alt="Pruned Decision Tree">
 
 **Project Result:**
 
@@ -122,11 +122,11 @@ In this project I analyzed data for certain stocks, comparing a K-Means clusteri
 
 I created the below dendogram to vizualize the clusters of the hierarchicchal clustering model, and the quanitites in each:
 
-<img src="assets/TradeAhead_Cluster_Dendogram.png" alt="Cluster Dendogram">
+<img src="assets/img/TradeAhead_Cluster_Dendogram.png" alt="Cluster Dendogram">
 
 In order to compare variables, I created the below plot to show the differences in how variables from each cluster vary from the dataset mean:
 
-<img src="assets/TradeAhead_cluster_characteristics.png" alt="Cluster Characteristics">
+<img src="assets/img/TradeAhead_cluster_characteristics.png" alt="Cluster Characteristics">
 
 
 **Project Result:**
@@ -154,7 +154,7 @@ I optmized the accuracy and recall score on the models created because False Neg
 
 I discovered and vizualized the most important features in the dataset according to my final model, providing powerful insights that could be used to reduce windmill failure. 
 
-<img src="assets/Renewind_Feature_Importances.png" alt="Feature Importances">
+<img src="assets/img/Renewind_Feature_Importances.png" alt="Feature Importances">
 
 **Project Result:**
 
