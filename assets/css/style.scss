@@ -119,11 +119,16 @@ kbd {
 }
 
 header {
-  width:270px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+  text-align: center; /* Center text inside header */
+  width: 100%; /* Make header span full width */
+  position: fixed; /* Keep header fixed */
+  top: 0; /* Position at the top of the page */
 }
+
+header h1 {
+  margin: 0 auto; /* Center horizontally */
+}
+
 
 ul.downloads {
   list-style:none;
