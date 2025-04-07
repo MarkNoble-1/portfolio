@@ -86,7 +86,7 @@ I used pruning techniques to refine the decision tree, allowing for a more rubus
 
 The first decision tree was highly complex and performed with 99% accuracy and a 99% F1 score on the training data, but poorly performed on the testing data set as it was overfitting:
 
-<img src="assets/img/INN_Decision_Tree.png" alt="Prepruned Decision Tree">
+<img src="assets/img/INN_prepruned_tree.png" alt="Prepruned Decision Tree">
 
 The pruned tree was more computationally effecient and had approximately equal performance on training and testing data:
 
