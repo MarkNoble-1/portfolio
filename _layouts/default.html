@@ -14,13 +14,16 @@
   </head>
   <body>
     <div class="wrapper">
-      <header class = "site-header">
+      <!-- Add inline style for text alignment -->
+      <header class="site-header" style="text-align: center;">
+        <!-- Align the main title -->
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <!-- Align description -->
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <p>Projects:</p>
@@ -28,6 +31,7 @@
         <!-- Add Jump Links -->
         <nav class="jump-links">
           <ul>
+            <!-- Align navigation links -->
             <li><a href="#business-statistics-project">Business Statistics Project</a></li>
             <li><a href="#supervised-machine-learning-regression-project">Supervised Machine Learning: Regression Project</a></li>
             <li><a href="#supervised-machine-learning-classification-project">Supervised Machine Learning: Classification Project</a></li>
