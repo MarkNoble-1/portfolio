@@ -1,6 +1,10 @@
 @import "fonts";
 @import "rouge-github"; 
 
+header {
+    text-align: center; /* Change to 'left', 'right', or 'justify' as needed */
+}
+
 body {
   background-color: #fff;
   padding:50px;
