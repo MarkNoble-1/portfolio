@@ -1,4 +1,4 @@
-# Data Science and Business Analytics Projects
+# Data Science and Business Analytics Projects 
   
 
 These projects were completed during my Data Sciense & Business Analytics Post Graduate Certificate at UT Austin. They showcase my ability and experience in solving a variety of data science tasks utilzing technical tools. 
