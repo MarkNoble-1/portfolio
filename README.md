@@ -137,7 +137,7 @@ ________________________________________________________________________________
 
 
 ## Model Tuning Project
-**[Model Tuning Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/projects/Renewind_Model_Tuning_Project.ipynb)**
+**[Full Project Link](https://github.com/MarkNoble-1/portfolio/blob/main/Renewind_Model_Tuning_Project.ipynb)**
 
 **Summary:**
 
