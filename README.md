@@ -1,13 +1,13 @@
 # Data Science and Business Analytics Projects 
   
 
-These projects were completed during my Data Sciense & Business Analytics Post Graduate Certificate at UT Austin. They showcase my ability and experience in solving a variety of data science tasks utilzing technical tools. 
+These projects were completed during my Data Science & Business Analytics Post Graduate Certificate at UT Austin. They showcase my ability and experience in solving a variety of data science tasks utilizing technical tools. 
 
 **Skills & Tools Covered Across All Projects**
 
 - Python (NumPy, Pandas, Seaborn)
 - Multivariate and Bivariate Data Analysis
-- Data Vizualization
+- Data Visualization
 - Data Investigation and Preprocessing (handling outliers, missing values, duplicates, etc)
 - Data Manipulation (creating new variables, normalizing values)
 - Data Engineering (Creating new columns, One Hot Encoding, Test Train Split)
@@ -82,13 +82,13 @@ ________________________________________________________________________________
 
 In this project I analyzed customer data for a hotel to find which factors have a high influence on booking cancellations, and built a decision tree model to predict bookings which are likely canceled in advance resulting in revenue loss. I used this data to help formulate profitable policies for cancellations and refunds for the hotel. Additionally, I investigated a variable in the dataset that presented logical inconsistencies, and I presented possible explanations for the data shown by that variable to highlight the importance of clean data. 
 
-I used pruning techniques to refine the decision tree, allowing for a more rubust model.
+I used pruning techniques to refine the decision tree, allowing for a more robust model.
 
 The first decision tree was highly complex and performed with 99% accuracy and a 99% F1 score on the training data, but poorly performed on the testing data set as it was overfitting:
 
 <img src="assets/img/INN_prepruned_tree.png" alt="Prepruned Decision Tree">
 
-The pruned tree was more computationally effecient and had approximately equal performance on training and testing data:
+The pruned tree was more computationally efficient and had approximately equal performance on training and testing data:
 
 <img src="assets/img/INN_Decision_Tree.png" alt="Pruned Decision Tree">
 
@@ -111,9 +111,9 @@ ________________________________________________________________________________
 
 **Summary:**
 
-In this project I analyzed data for certain stocks, comparing a K-Means clustering model and a Heirarchical clustering model that identified groups of stocks based on the attributes provided. I compared both models and optimized their performance to select the model creating the most appropriately sized and distinct clusters. I shared insights about the characteristics of each group, and how the model can be used to drive decision making for investment on these stocks. 
+In this project I analyzed data for certain stocks, comparing a K-Means clustering model and a Hierarchical clustering model that identified groups of stocks based on the attributes provided. I compared both models and optimized their performance to select the model creating the most appropriately sized and distinct clusters. I shared insights about the characteristics of each group, and how the model can be used to drive decision making for investment on these stocks. 
 
-I created the below dendogram to vizualize the clusters of the hierarchicchal clustering model, and the quanitites in each:
+I created the below dendrogram to visualize the clusters of the hierarchical clustering model, and the quantities in each:
 
 <img src="assets/img/TradeAhead_Cluster_Dendogram.png" alt="Cluster Dendogram">
 
@@ -128,9 +128,9 @@ I created a clustering model splitting the stocks into 3 distinct groups, allowi
 
 **Unique Skills & Tools Covered:**
 
-- K-Means Clustring
-- Hierarchical Clustring
-- Cluter Profiling
+- K-Means Clustering
+- Hierarchical Clustering
+- Cluster Profiling
 
 
 ____________________________________________________________________________________________________________________________
@@ -143,7 +143,7 @@ ________________________________________________________________________________
 
 In this project I analyzed encoded sensor data to help improve the cost and efficiency of wind energy production by building a model to predict windmill failures. I built and tuned several classification models to find the most effective model at predicting failures, which would allow the company to avoid steep repair costs and downtime.
 
-I optmized the accuracy and recall score on the models created because False Negatives (real failures where there is no detection by the model) cost significantly more than False Positives (failture predicted when there is no failure), and actual failures predicted by the model still result in hefty repair costs.
+I optimized the accuracy and recall score on the models created because False Negatives (real failures where there is no detection by the model) cost significantly more than False Positives (failture predicted when there is no failure), and actual failures predicted by the model still result in hefty repair costs.
 
 I discovered and vizualized the most important features in the dataset according to my final model, providing powerful insights that could be used to reduce windmill failure. 
 
