@@ -26,7 +26,7 @@ In this project I used statistical analysis, a/b testing, and data visualization
 
 1. Do the users spend more time on the new landing page than the existing landing page?
 2. Is the conversion rate (the proportion of users who visit the landing page and get converted) for the new page greater than the conversion rate for the old page?
-3. Is the conversion and preferred language independent or related?
+3. Are conversion and preferred language independent or related?
 4. Is the time spent on the new page the same for the different language users?
 
 Initial visual analysis shown below seemed to suggest that the new landing page is more effective at converting viewers to subscribers than the old landing page, but further statistical analysis was required to determine the statistical significance of the new page's performance.
